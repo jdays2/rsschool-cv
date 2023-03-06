@@ -34,7 +34,7 @@ Well, hello there, as you may have realized, my name is Mark. I am 22 years old,
 _My first task on 6kata_
 *https://www.codewars.com/kata/5266876b8f4bf2da9b000362/*
 
-_Short Description:_ You probably know the "like" system from Facebook and other pages. People can "like" blog posts, pictures or other items. We want to create the text that should be displayed next to such an item.
+**Short Description:** You probably know the "like" system from Facebook and other pages. People can "like" blog posts, pictures or other items. We want to create the text that should be displayed next to such an item.
 
 ```
 function likes(names) {
@@ -53,3 +53,11 @@ function likes(names) {
 ```
 
 ---
+
+### My projects:
+
+_To say that I have a lot of experience in development would be a mistake, but I constantly tried to do some small projects to consolidate the result and continue to do it, to sharpen my skills. I am self-taught. All the information I get from online sources, small courses and help from my mentor. RSS was my first big experience in development and comprehensive study._
+
+- [https://tic-tac-toe-puce-five.vercel.app/](vercel) [https://github.com/jdays2/TicTacToe](github) (The tic-tac-toe game. Implemented all on REACT, using REDUX-Toolkit, axios, and TypeScript. Will be finalized and refactored. This is not the final version )
+- [https://react-pizza-theta-blue.vercel.app/](vercel) [https://github.com/jdays2/ReactPizza](github)(Project obtained by taking a course on youtube on React. I can't call it 100% my own. )
+- [https://time-tracking-flax.vercel.app/](vercel) [https://github.com/jdays2/time-tracking](github)(A small project with adaptive layout, loaded with data from the backend. Just a no-brainer. )
