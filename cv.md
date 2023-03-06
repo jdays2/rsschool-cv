@@ -59,6 +59,6 @@ function likes(names) {
 _To say that I have a lot of experience in development would be a mistake, but I constantly tried to do some small projects to consolidate the result and continue to do it, to sharpen my skills. I am self-taught. All the information I get from online sources, small courses and help from my mentor. RSS was my first big experience in development and comprehensive study._
 
 - [vercel](https://tic-tac-toe-puce-five.vercel.app/) [github](https://github.com/jdays2/TicTacToe) (The tic-tac-toe game. Implemented all on REACT, using REDUX-Toolkit, axios, and TypeScript. Will be finalized and refactored. This is not the final version )
-  ![game](./assets/img/tictactoe_game.png =100) ![main](./assets/img/tictactoe_main.png =100)
+  ![game](./assets/img/tictactoe_game.png =100x) ![main](./assets/img/tictactoe_main.png =100x)
 - [vercel](https://react-pizza-theta-blue.vercel.app/) [github](https://github.com/jdays2/ReactPizza)(Project obtained by taking a course on youtube on React. I can't call it 100% my own. )
 - [vercel](https://time-tracking-flax.vercel.app/) [github](https://github.com/jdays2/time-tracking)(A small project with adaptive layout, loaded with data from the backend. Just a no-brainer. )
