@@ -1,16 +1,23 @@
 # Mark Gorsharik
 
-**Beginning frontend developer**
+**_Beginning frontend developer_**
 
-_Contact information:_
-_Phone:_+375336862774
-_E-mail:_ markgorsharik@gmail.com
-_Telegram:_ @Marchezko
-_GitHub:_ https://github.com/jdays2
+---
 
-## Who is Mark?
+### Contact information:
 
-## Well, hello there, as you may have realized, my name is Mark. I am 22 years old, like everyone else here, I am a beginner frontend developer. At least I try to become one. My way in this area began almost a year ago. Slowly in the beginning and rapidly by the last days I was learning, trying to do some projects for myself. All my life I was looking for what I want to do, where I want to work. Everywhere I went I felt out of place, I couldn't find inner peace and joy in what I was doing. No extra pay or promotion could satisfy me, because I was unhappy at heart. My life changed when I started learning how to frontend. I work at my day job, which gives me a living wage, but I spend all my free time with frontend. I'm not some genius developer who can grasp everything in the blink of an eye. Yes, it can be difficult. But I never stop, because the reward for diligence and solving complexities gives me something I've been missing for so long. Makes me finally feel happy and in my place. I'm willing to do anything to tie my life to this field.
+- _Phone:_+375336862774
+- _E-mail:_ markgorsharik@gmail.com
+- _Telegram:_ @Marchezko
+- _GitHub:_ https://github.com/jdays2
+
+---
+
+# Who is Mark?
+
+Well, hello there, as you may have realized, my name is Mark. I am 22 years old, like everyone else here, I am a beginner frontend developer. At least I try to become one. My way in this area began almost a year ago. Slowly in the beginning and rapidly by the last days I was learning, trying to do some projects for myself. All my life I was looking for what I want to do, where I want to work. Everywhere I went I felt out of place, I couldn't find inner peace and joy in what I was doing. No extra pay or promotion could satisfy me, because I was unhappy at heart. My life changed when I started learning how to frontend. I work at my day job, which gives me a living wage, but I spend all my free time with frontend. I'm not some genius developer who can grasp everything in the blink of an eye. Yes, it can be difficult. But I never stop, because the reward for diligence and solving complexities gives me something I've been missing for so long. Makes me finally feel happy and in my place. I'm willing to do anything to tie my life to this field.
+
+---
 
 ### My skills:
 
@@ -44,3 +51,5 @@ function likes(names) {
   }
 }
 ```
+
+---
